@@ -24,9 +24,9 @@
 #include <cmath>
 #include <complex>
 
-#include <xmmintrin.h>
+//#include <xmmintrin.h>
 
-#define USE_SSE
+//#define USE_SSE
 
 using namespace aoflagger;
 
